@@ -24,7 +24,7 @@ This project was developed with the following tecnologies:
 - [Vercel](https://vercel.com/)
 
 ## 💡 About the project 
-Feedback Widget is an application that you can use for your website as tool to collect feedback informations from users accessing the page. The application allows the user send 3 types of feedbacks for you, in each feedback message it is implemented the screenshot functionality. If the user wants to specify the return feedback they can take a screenshot of your website and send along with the feedback description.
+Feedback Widget is an application that you can use for your website as tool to collect feedback informations from users accessing the page, finding bugs, suggesting new ideas and report some errors. The application allows the user send 3 types of feedbacks for you, in each feedback message it is implemented the screenshot functionality. If the user wants to specify the return feedback they can take a screenshot of your website and send along with the feedback description.
 
 The application supports problem, idea and other feedbacks. If the user finds a problem in your website he can choice the feedback type, in this example is a problem category, send for you a e-mail with the feedback description and also if he wants take a screenshot (it is optional select the screenshot). The same thing work for the other two types of feedbacks.
 
